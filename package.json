@@ -1,7 +1,7 @@
 {
     "name": "app2",
     "version": "1.0.6",
-    "description": "some desce",
+    "description": "some description",
     "main": "index.js",
     "scripts": {},
     "repository": {
