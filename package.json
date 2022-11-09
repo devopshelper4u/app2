@@ -1,7 +1,7 @@
 {
     "name": "app2",
     "version": "1.0.13",
-    "description": "some description for test",
+    "description": "some description for test1",
     "main": "index.js",
     "scripts": {},
     "repository": {
